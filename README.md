@@ -105,8 +105,8 @@ Build a collaborative ecosystem supporting mutual growth and business success.
 
 ## Governance & Accountability
 **Project Lead:** [Bandar]  
-**Marketing Team:** Responsible for campaign execution and digital presence  
+**Marketing Team:** Responsible for campaign execution and digital presence
 **Sales Team:** Responsible for direct stakeholder engagement and relationship building  
 **Executive Sponsor:** Grundfos Saudi Arabia Management
 
-For questions or contributions, please contact the Bandar project team.
+
