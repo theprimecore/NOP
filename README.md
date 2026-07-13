@@ -97,6 +97,9 @@ To improve campaign performance visibility immediately, all digital campaigns sh
 - `utm_campaign` (phase_objective_audience, e.g., `p2_leadgen_facilitymanagers`)
 - `utm_content` (creative or asset identifier)
 
+**Campaign URL template (copy/paste):**
+`https://www.grundfos.com/sa/commercial-buildings?utm_source={source}&utm_medium={medium}&utm_campaign={phase_objective_audience}&utm_content={asset_id}`
+
 **Weekly dashboard minimum fields:**
 - Spend
 - Clicks
@@ -109,7 +112,12 @@ To improve campaign performance visibility immediately, all digital campaigns sh
 - Influenced Pipeline
 - Won Revenue
 
-**Operating cadence:** Review weekly with marketing + sales and reallocate budget to top-performing channels.
+**Definition of done (required before launch):**
+1. Every campaign link includes all four UTM fields.
+2. The campaign appears on the weekly KPI dashboard within 24 hours.
+3. Marketing owner and sales owner are assigned for weekly optimization decisions.
+
+**Operating cadence:** Review weekly with marketing + sales and reallocate budget to top-performing channels using CPL and cost-per-MQL as the primary short-term decision metrics.
 
 ---
 
@@ -147,5 +155,4 @@ To improve campaign performance visibility immediately, all digital campaigns sh
 **Marketing Team:** Responsible for campaign execution and digital presence
 **Sales Team:** Responsible for direct stakeholder engagement and relationship building  
 **Executive Sponsor:** Grundfos Saudi Arabia Management
-
 
