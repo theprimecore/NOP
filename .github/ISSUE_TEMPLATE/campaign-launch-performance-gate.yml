@@ -1,0 +1,90 @@
+name: Campaign launch performance gate
+description: Mandatory pre-launch checklist for campaign tracking and KPI readiness.
+title: "[Launch Gate] "
+labels:
+  - marketing
+  - performance
+  - tracking
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Complete this gate before campaign launch. Launch is blocked until all required fields are provided.
+
+  - type: input
+    id: campaign_name
+    attributes:
+      label: Campaign name
+      placeholder: p2_leadgen_facilitymanagers
+    validations:
+      required: true
+
+  - type: input
+    id: channel
+    attributes:
+      label: Channel
+      placeholder: linkedin, google, email, partner
+    validations:
+      required: true
+
+  - type: textarea
+    id: landing_url_with_utms
+    attributes:
+      label: Landing URL with UTM parameters
+      description: Must include utm_source, utm_medium, utm_campaign, utm_content.
+      placeholder: https://www.grundfos.com/sa/commercial-buildings?utm_source=linkedin&utm_medium=paid_social&utm_campaign=p2_leadgen_facilitymanagers&utm_content=ad_a
+    validations:
+      required: true
+
+  - type: input
+    id: dashboard_link
+    attributes:
+      label: KPI dashboard link
+      description: Link to the weekly dashboard entry for this campaign.
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: input
+    id: marketing_owner
+    attributes:
+      label: Marketing owner
+      placeholder: @username
+    validations:
+      required: true
+
+  - type: input
+    id: sales_owner
+    attributes:
+      label: Sales owner
+      placeholder: @username
+    validations:
+      required: true
+
+  - type: input
+    id: target_cpl
+    attributes:
+      label: Target cost per lead (CPL)
+      placeholder: e.g., SAR 120
+    validations:
+      required: true
+
+  - type: input
+    id: target_cpmql
+    attributes:
+      label: Target cost per MQL
+      placeholder: e.g., SAR 300
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: launch_checklist
+    attributes:
+      label: Launch readiness checklist
+      options:
+        - label: All campaign links include the 4 required UTM fields.
+          required: true
+        - label: Campaign appears in dashboard within 24 hours of setup.
+          required: true
+        - label: Marketing and sales owners are assigned and agreed on weekly review cadence.
+          required: true
