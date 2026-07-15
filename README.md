@@ -119,6 +119,17 @@ To improve campaign performance visibility immediately, all digital campaigns sh
 
 **Operating cadence:** Review weekly with marketing + sales and reallocate budget to top-performing channels using CPL and cost-per-MQL as the primary short-term decision metrics.
 
+### Quick-Win Operationalization: Campaign Launch Performance Gate
+
+To make the highest-impact, lowest-effort item enforceable in day-to-day execution, use the launch gate template before any campaign goes live.
+
+**Template path:** `.github/ISSUE_TEMPLATE/campaign-launch-performance-gate.yml`
+
+**What it enforces:**
+- Complete UTM fields before launch approval
+- Named marketing and sales owners
+- Baseline KPI targets (CPL and cost per MQL) and dashboard-link visibility
+
 ---
 
 ## Timeline & Phases
@@ -155,4 +166,3 @@ To improve campaign performance visibility immediately, all digital campaigns sh
 **Marketing Team:** Responsible for campaign execution and digital presence
 **Sales Team:** Responsible for direct stakeholder engagement and relationship building  
 **Executive Sponsor:** Grundfos Saudi Arabia Management
-
