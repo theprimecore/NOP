@@ -3,10 +3,20 @@
 ### Executive Summary
 Bandar represents Grundfos's strategic market expansion in Saudi Arabia's commercial buildings sector. This initiative leverages digital innovation, strategic partnerships, and customer-centric solutions to establish market leadership in HVAC, water management, and pumping systems for commercial infrastructure.
 
-## Industries   |	Applications 	     | Verticals 
-   Data Center  |	Pressure boosting  | District cooling 
-   Health care 	| HVAC	             | After market Services 
-   Hospitality	| Waste water 	     |
+## 
+Industries:  
+- Data Center
+- Health care 	
+- Hospitality	
+
+Applications:
+- Pressure boosting
+- HVAC
+- Waste water
+
+Verticals:
+- District cooling
+- After market Services 
 
 ---
 
