@@ -1,8 +1,12 @@
 # Marketing Development Roadmap - CBS Initiative
-## Grundfos Saudi Arabia
 
 ### Executive Summary
 Bandar represents Grundfos's strategic market expansion in Saudi Arabia's commercial buildings sector. This initiative leverages digital innovation, strategic partnerships, and customer-centric solutions to establish market leadership in HVAC, water management, and pumping systems for commercial infrastructure.
+
+## Industries   |	Applications 	     | Verticals 
+   Data Center  |	Pressure boosting  | District cooling 
+   Health care 	| HVAC	             | After market Services 
+   Hospitality	| Waste water 	     |
 
 ---
 
@@ -154,5 +158,4 @@ To improve campaign performance visibility immediately, all digital campaigns sh
 **Project Lead:** [Bandar]  
 **Marketing Team:** Responsible for campaign execution and digital presence
 **Sales Team:** Responsible for direct stakeholder engagement and relationship building  
-**Executive Sponsor:** Grundfos Saudi Arabia Management
 
